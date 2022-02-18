@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewSSB
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I'm interested in programming and tech-related stuff.
 - 📫 How to reach me eneandrei0228@gmail.com
 
 <!---
